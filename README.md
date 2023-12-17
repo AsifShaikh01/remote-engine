@@ -18,8 +18,11 @@ The frontend application is built using React.js and CSS. It communicates with t
    npm install
 
 ## Run the app using 
+ 
 
-# npm run start
+  npm run start
+
+      
 ## Backend API Endpoints
 
 Client Authentication
