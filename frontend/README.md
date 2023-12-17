@@ -23,13 +23,13 @@ The frontend application is built using React.js and CSS. It communicates with t
 ## Backend API Endpoints
 
 Client Authentication
-POST /client/register: Register a new client.
-POST /client/login: Login for an existing client.
+1. POST /client/register: Register a new client.
+2. POST /client/login: Login for an existing client.
 
 
 Developer Authentication
-POST /developer/register: Register a new developer.
-POST /developer/login: Login for an existing developer.
+1. POST /developer/register: Register a new developer.
+2. POST /developer/login: Login for an existing developer.
 
 [Deployed Link for frontend](https://neon-mochi-69535a.netlify.app)
 
