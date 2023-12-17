@@ -31,5 +31,7 @@ Developer Authentication
 POST /developer/register: Register a new developer.
 POST /developer/login: Login for an existing developer.
 
+[Deployed Link for frontend](https://neon-mochi-69535a.netlify.app)
 
+[Backend API Link](https://wild-rose-chick-gown.cyclic.app/)
 
